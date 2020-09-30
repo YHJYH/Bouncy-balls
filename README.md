@@ -18,3 +18,7 @@ Given user input for the initial height, minimum height of interest, and η; we 
 
 waterwater
 more water
+more and more and more and more 
+and more 
+water 
+water
