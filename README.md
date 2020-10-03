@@ -17,6 +17,9 @@ Given user input for the initial height, minimum height of interest, and η; we 
 •some, magics?
 
 
+
+water 
+water
 asd
 
 waterwater
@@ -32,5 +35,3 @@ waterwater
 more water
 more and more and more and more 
 and more 
-water 
-water
